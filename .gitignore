@@ -5,12 +5,4 @@ generated_outputs/
 .vscode/
 *.pyc
 .env
-*.ply
-.gradio
-data
-**/*.ipynb
-**/*.zip
-**/*.png
-image
-/env.yml
-/competion-0
+
